@@ -96,4 +96,4 @@ randomPargraph();
 inpField.addEventListener("input", initTyping);
 tryAgainBtn.addEventListener("click" , resetGame);
 
-//console.log("helloe world");
+console.log("helloe world");
